@@ -1,0 +1,10 @@
+1 - Fecha: 2024-11-07 13:52:45 | IP: 127.0.0.1 | Respuesta: Correcto: albert einstein
+2 - Fecha: 2024-11-07 13:52:55 | IP: 127.0.0.1 | Respuesta: Incorrecto: espa�a
+3 - Fecha: 2024-11-07 13:53:01 | IP: 127.0.0.1 | Respuesta: Incorrecto: juan soliz
+4 - Fecha: 2024-11-07 13:53:07 | IP: 127.0.0.1 | Respuesta: Incorrecto: americano
+5 - Fecha: 2024-11-07 13:53:12 | IP: 127.0.0.1 | Respuesta: Correcto: paris
+1 - Fecha: 2024-11-07 14:00:01 | IP: 127.0.0.1 | Respuesta: Correcto: mercurio
+2 - Fecha: 2024-11-07 14:00:05 | IP: 127.0.0.1 | Respuesta: Correcto: paris
+3 - Fecha: 2024-11-07 14:00:13 | IP: 127.0.0.1 | Respuesta: Correcto: argentina
+4 - Fecha: 2024-11-07 14:00:22 | IP: 127.0.0.1 | Respuesta: Correcto: vitamina d
+5 - Fecha: 2024-11-07 14:00:30 | IP: 127.0.0.1 | Respuesta: Correcto: guepardo
